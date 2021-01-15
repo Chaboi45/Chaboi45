@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a moderator @CodeCombat and help out with their projects. Also sometimes create themes for Discourse. 
+
 <div align = center>
 
 
